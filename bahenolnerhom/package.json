@@ -1,6 +1,6 @@
 {
   "name": "bahenol94",
-  "version": "1.1.4",
+  "version": "2.0.0",
   
   "scripts": {
     "dev": "next dev",
